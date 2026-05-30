@@ -1,2 +1,49 @@
 # Spatiotemporal-Air-Quality-Index-Forecasting-using-LSTM-and-Time-Series-Modelling-Techniques
 AQI Weather Forecasting Project
+
+# 🌍 SkyGuard AI – Air Quality Index Forecasting System
+
+## Overview
+
+SkyGuard AI is a deep learning-based Air Quality Index (AQI) forecasting system that predicts future PM2.5 pollution levels using historical air quality data. The project analyzes temporal patterns in environmental data and compares multiple deep learning architectures for accurate forecasting.
+
+## Features
+
+* AQI and PM2.5 prediction
+* Time-series forecasting
+* Interactive Streamlit dashboard
+* Model performance comparison
+* Data visualization and analysis
+
+## Models Used
+
+* LSTM (Long Short-Term Memory)
+* BiLSTM (Bidirectional LSTM)
+* BiLSTM + Conv1D
+* GRU (Gated Recurrent Unit)
+
+## Dataset
+
+Beijing Multi-Site Air Quality Dataset (2013–2017) containing air quality and meteorological data collected from 12 monitoring stations.
+
+## Tech Stack
+
+* Python
+* TensorFlow / Keras
+* Pandas & NumPy
+* Scikit-Learn
+* Streamlit
+* Plotly
+
+## Evaluation Metrics
+
+* MAE (Mean Absolute Error)
+* RMSE (Root Mean Square Error)
+* R² Score
+
+## Applications
+
+* Environmental Monitoring
+* Smart Cities
+* Pollution Forecasting
+* Public Health Awareness
