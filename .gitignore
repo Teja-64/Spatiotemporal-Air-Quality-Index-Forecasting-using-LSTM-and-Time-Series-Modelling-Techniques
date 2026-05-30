@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data Files (Too large for Git)
+data/
+processed_data.csv
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+env/
